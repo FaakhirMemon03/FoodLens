@@ -72,8 +72,8 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 04-01: Setup food prefabs with LOD Group and PBR textures.
-- [ ] 04-02: Implement FPS Monitoring and Auto-Downgrade Controller.
+- [x] 04-01: Setup food prefabs with LOD Group and PBR textures.
+- [x] 04-02: Implement FPS Monitoring and Auto-Downgrade Controller.
 
 ## Progress
 
@@ -85,4 +85,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Engine Foundation & Core Detection | 3/3 | Complete | 2026-05-20 |
 | 2. AR Engines & Interaction Systems | 3/3 | Complete | 2026-05-20 |
 | 3. Menu UI & Family Mode | 2/2 | Complete | 2026-05-20 |
-| 4. Assets, Fallback & Optimizations | 0/2 | In progress | - |
+| 4. Assets, Fallback & Optimizations | 2/2 | Complete | 2026-05-20 |
