@@ -42,9 +42,9 @@ Plans:
 **Plans**: 3 plans
 
 Plans:
-- [ ] 02-01: Set up Full AR scene with AR Foundation and implement Placement Manager.
-- [ ] 02-02: Integrate Lighting Estimation and Shadow Catcher systems.
-- [ ] 02-03: Implement Interaction Handler script for rotation, scaling (clamped), repositioning, and deletion.
+- [x] 02-01: Set up Full AR scene with AR Foundation and implement Placement Manager.
+- [x] 02-02: Integrate Lighting Estimation and Shadow Catcher systems.
+- [x] 02-03: Implement Interaction Handler script for rotation, scaling (clamped), repositioning, and deletion.
 
 ### Phase 3: Menu UI & Family Mode
 **Goal**: Design and script the restaurant-themed user interface, incorporating Urdu/English toggles and Family Mode scaling overrides.
@@ -83,6 +83,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Engine Foundation & Core Detection | 3/3 | Complete | 2026-05-20 |
-| 2. AR Engines & Interaction Systems | 0/3 | In progress | - |
-| 3. Menu UI & Family Mode | 0/2 | Not started | - |
+| 2. AR Engines & Interaction Systems | 3/3 | Complete | 2026-05-20 |
+| 3. Menu UI & Family Mode | 0/2 | In progress | - |
 | 4. Assets, Fallback & Optimizations | 0/2 | Not started | - |
