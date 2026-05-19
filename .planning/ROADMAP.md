@@ -25,9 +25,9 @@ This roadmap defines the transition of FoodLens Lite from an idea to a fully fun
 **Plans**: 3 plans
 
 Plans:
-- [ ] 01-01: Setup folder structure and Mode Detection System (C# scripts).
-- [ ] 01-02: Implement Boot Loader scene and routing to mode scenes.
-- [ ] 01-03: Implement Fake AR controller with camera background rendering and screen-anchored object controls.
+- [x] 01-01: Setup folder structure and Mode Detection System (C# scripts).
+- [x] 01-02: Implement Boot Loader scene and routing to mode scenes.
+- [x] 01-03: Implement Fake AR controller with camera background rendering and screen-anchored object controls.
 
 ### Phase 2: AR Engines & Interaction Systems
 **Goal**: Build the AR Core and Lite AR placement engines using AR Foundation, and implement gesture rotation/scaling controls.
@@ -82,7 +82,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Engine Foundation & Core Detection | 0/3 | Not started | - |
-| 2. AR Engines & Interaction Systems | 0/3 | Not started | - |
+| 1. Engine Foundation & Core Detection | 3/3 | Complete | 2026-05-20 |
+| 2. AR Engines & Interaction Systems | 0/3 | In progress | - |
 | 3. Menu UI & Family Mode | 0/2 | Not started | - |
 | 4. Assets, Fallback & Optimizations | 0/2 | Not started | - |
