@@ -58,8 +58,8 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 03-01: Build the UI canvases (Splash, Scanning, Menu Carousel, Info Panel).
-- [ ] 03-02: Implement Localizer and UI Manager for language toggle and Family Mode sizing.
+- [x] 03-01: Build the UI canvases (Splash, Scanning, Menu Carousel, Info Panel).
+- [x] 03-02: Implement Localizer and UI Manager for language toggle and Family Mode sizing.
 
 ### Phase 4: Assets, Fallback & Optimizations
 **Goal**: Integrate final 3D models with LOD meshes, compress textures, and program the FPS-based runtime fallback safety system.
@@ -84,5 +84,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Engine Foundation & Core Detection | 3/3 | Complete | 2026-05-20 |
 | 2. AR Engines & Interaction Systems | 3/3 | Complete | 2026-05-20 |
-| 3. Menu UI & Family Mode | 0/2 | In progress | - |
-| 4. Assets, Fallback & Optimizations | 0/2 | Not started | - |
+| 3. Menu UI & Family Mode | 2/2 | Complete | 2026-05-20 |
+| 4. Assets, Fallback & Optimizations | 0/2 | In progress | - |
